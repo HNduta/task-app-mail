@@ -2,9 +2,10 @@
 
 //database
 $servername = "localhost";
-$username = "root"; 
-$password = "$hopenduta26"; 
+$username = "root";
+$password = "hopenduta26"; 
 $dbname = "taskappdb";
+
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
