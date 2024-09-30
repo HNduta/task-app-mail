@@ -3,7 +3,7 @@
 //database
 $servername = "localhost";
 $username = "root"; 
-$password = ""; 
+$password = "$hopenduta26"; 
 $dbname = "taskappdb";
 
 // Create connection
